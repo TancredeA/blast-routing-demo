@@ -1,0 +1,15 @@
+{
+  "name": "blast-routing-demo",
+  "private": true,
+  "type": "module",
+  "description": "Toy, in-browser reimplementation of blast-aware route planning with Bayesian optimization. No dependencies.",
+  "license": "MIT",
+  "homepage": "https://tancredea.github.io/projects/blast-routing/simulation/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tancredea/blast-routing-demo.git"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  }
+}
